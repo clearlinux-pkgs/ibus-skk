@@ -6,7 +6,7 @@
 #
 Name     : ibus-skk
 Version  : 1.4.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/ueno/ibus-skk/releases/download/ibus-skk-1.4.3/ibus-skk-1.4.3.tar.xz
 Source0  : https://github.com/ueno/ibus-skk/releases/download/ibus-skk-1.4.3/ibus-skk-1.4.3.tar.xz
 Source1 : https://github.com/ueno/ibus-skk/releases/download/ibus-skk-1.4.3/ibus-skk-1.4.3.tar.xz.sig
